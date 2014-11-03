@@ -16,7 +16,7 @@ npm i -D grunt-db
 grunt.initConfig({
   db: {
     options: {
-      username: 'username',
+      user: 'username',
       password: 'password',
       dialect: 'mysql',
     },
@@ -30,4 +30,4 @@ grunt.initConfig({
 
 ### Options
 
-The options object can specify anything that [manage-database](https://www.npmjs.org/package/manage-database) understands: `user` or `username`, `database` (template for postgres), `password`, `port`, `host` and `dialect`.
+The options object can specify anything that [manage-database](https://www.npmjs.org/package/manage-database) understands: `user`, `database` (template for postgres), `password`, `port`, `host` and `dialect`.
