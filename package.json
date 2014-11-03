@@ -1,0 +1,22 @@
+{
+  "name": "grunt-db",
+  "version": "0.0.1",
+  "description": "Manage databases with Grunt",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxmalov/grunt-db.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "postgres",
+    "mysql",
+    "database"
+  ],
+  "author": "Maxim Malov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxmalov/grunt-db/issues"
+  },
+  "homepage": "https://github.com/maxmalov/grunt-db"
+}
