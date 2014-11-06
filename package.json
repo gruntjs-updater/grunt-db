@@ -1,6 +1,6 @@
 {
   "name": "grunt-db",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Manage databases with Grunt",
   "main": "tasks/db.js",
   "repository": {
@@ -19,13 +19,11 @@
     "url": "https://github.com/maxmalov/grunt-db/issues"
   },
   "homepage": "https://github.com/maxmalov/grunt-db",
-  "perrDependencies": {
+  "peerDependencies": {
     "grunt": "^0.4.5"
   },
   "dependencies": {
-    "underscore": "^1.7.0"
-  },
-  "devDependencies": {
+    "underscore": "^1.7.0",
     "manage-database": "^0.1.3"
   }
 }
