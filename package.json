@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/maxmalov/grunt-db",
   "peerDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": ">=0.4.0"
   },
   "dependencies": {
     "underscore": "^1.7.0",
